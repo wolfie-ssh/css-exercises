@@ -22,12 +22,3 @@ The properties you need to add to each element are:
 | ~~Does each element have a unique class name?~~   | ✅     |
 | ~~Did you use the grouping selector for styles that both elements share?~~ | ✅     |
 | ~~Did you make separate rules for the styles unique to each element?~~ | ✅     |
-
-### Self Check
-
-| Question                                                | Check |
-|---------------------------------------------------------|-------|
-| ~~Do the elements that contain the text "This should be styled" have the correct styles applied?~~ | ✅     |
-| ~~Do the elements that contain the text "This should be unstyled" have no styles applied?~~ | ✅     |
-
----

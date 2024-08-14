@@ -16,7 +16,7 @@ The properties you need to add to each element are:
 ![desired outcome](./desired-outcome.png)
 
 
-| Item                                                                 | Check |
+| Question                                                              | Check |
 |-------------------------------------------------------------------|-------|
 | ~~Did you use all three methods of adding CSS to an HTML file?~~        | ✅     |
 | ~~Did you properly link the external CSS file in the HTML file?~~       | ✅     |
