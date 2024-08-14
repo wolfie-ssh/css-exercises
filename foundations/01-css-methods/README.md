@@ -16,21 +16,6 @@ The properties you need to add to each element are:
 ![desired outcome](./desired-outcome.png)
 
 
-### Self Check
-- ~~Did you use all three methods of adding CSS to an HTML file?~~    :white_check_mark:
-- ~~Did you properly link the external CSS file in the HTML file?~~   :white_check_mark:
-- ~~Does the `div` element have CSS added via the external method?~~  :white_check_mark:
-- ~~Does the `p` element have CSS added via the internal method?~~    :white_check_mark:
-- ~~Does the `button` element have CSS added via the inline method?~~ :white_check_mark:
-
-| Check | Item                                                                 |
-|-------|-------------------------------------------------------------------|
-| ✅    | Did you use all three methods of adding CSS to an HTML file?        |
-| ✅    | Did you properly link the external CSS file in the HTML file?       |
-| ✅    | Does the div element have CSS added via the external method?       |
-| ✅    | Does the p element have CSS added via the internal method?         |
-| ✅    | Does the button element have CSS added via the inline method?       |
-
 | Item                                                                 | Check |
 |-------------------------------------------------------------------|-------|
 | ~~Did you use all three methods of adding CSS to an HTML file?~~        | ✅     |
