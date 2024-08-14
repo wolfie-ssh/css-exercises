@@ -19,3 +19,17 @@ The properties you need to add to each element are:
 - Did you properly chain class selectors for each rule?
 - Does the `proportioned` image retain its original square proportions?
 - Does the `distorted` image end up looking squished and, well, distorted?
+
+### Self Check
+
+- **Did you properly chain class selectors for each rule?** | ✅
+- **Does the `proportioned` image retain its original square proportions?** | ✅
+- **Does the `distorted` image end up looking squished and, well, distorted?** | ✅
+
+**Styling Check** (Strikethrough for reference)
+
+| Question                                           | Check |
+|----------------------------------------------------|-------|
+| ~~Does each element have a unique class name?~~   | ✅     |
+| ~~Did you use the grouping selector for styles that both elements share?~~ | ✅     |
+| ~~Did you make separate rules for the styles unique to each element?~~ | ✅     |
