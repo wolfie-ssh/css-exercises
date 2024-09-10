@@ -6,7 +6,12 @@ body {
 .one {
   background: pink;
   border: 3px solid blue;
+<<<<<<< HEAD
   padding: 32px;
+=======
+  /* CHANGE ME */
+  padding: 0px;
+>>>>>>> fb7ebac1fbe15d457eeca2d091baa2e209d5e5d4
   margin: 0px;
 }
 
@@ -22,6 +27,10 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
+<<<<<<< HEAD
   padding: 32px;
+=======
+  padding: 0px;
+>>>>>>> fb7ebac1fbe15d457eeca2d091baa2e209d5e5d4
   margin-left: 0px;
 }
